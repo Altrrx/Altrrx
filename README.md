@@ -2,7 +2,7 @@
 -  I’m interested in Programming scratch, batch, and lua
 -  I’m currently learning 3D Scratch
 -  I’m looking to collaborate with griffpatch!
--  How to reach me  - MAIL: Altairmaglianesi@hotmail.com - SCRATCH: [Altrrx](scratch.mit.edu/users/Altrrx)
+-  How to reach me  - MAIL: Altairmaglianesi@hotmail.com - SCRATCH: [Altrrx](scratch.mit.edu.com/users/Altrrx)
 
 <!---
 Altrrx/Altrrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
