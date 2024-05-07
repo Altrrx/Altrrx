@@ -1,8 +1,8 @@
 # About Me
 -  Hi, I’m @Altrrx
 -  I’m interested in Programming scratch, batch, and lua
--  MAIL: altairmaglianesi@hotmail.com
 # How To Reach Me
+-  MAIL: altairmaglianesi@hotmail.com
 -  SCRATCH: @Altrrx or scratch.mit.edu/users/Altrrx
 -  GITHUB: youre already in it lel
 
