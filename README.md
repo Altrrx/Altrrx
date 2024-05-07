@@ -1,6 +1,9 @@
 -  Hi, I’m @Altrrx
 -  I’m interested in Programming scratch, batch, and lua
--  How to reach me  - MAIL: altairmaglianesi@hotmail.com - SCRATCH: @Altrrx or scratch.mit.edu/users/Altrrx - GITHUB: youre already in it lel
+-  MAIL: altairmaglianesi@hotmail.com
+##How To Reach Me
+-  SCRATCH: @Altrrx or scratch.mit.edu/users/Altrrx
+-  GITHUB: youre already in it lel
 
 <!---
 Altrrx/Altrrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
